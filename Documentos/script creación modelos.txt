@@ -1,1 +1,4 @@
  Scaffold-DbContext "Server=(localdb)\Servidor_Local; DataBase=Proyecto_Prestamos;Integrated Security=True" Microsoft.EntityFrameworkCore.SqlServer -OutPutDir Models
+
+
+
